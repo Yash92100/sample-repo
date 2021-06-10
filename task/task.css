@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(43, 226, 211);
+    padding: 20px;
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+    
+}
+.parent{
+    background-color: slateblue;
+    width: 200px;
+    height: 400px;
+    
+}
+#image{
+    width: 100%;
+    height: 25%;
+}
+input{
+    background-color: slategray;
+}
